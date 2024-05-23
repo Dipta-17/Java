@@ -1,4 +1,4 @@
-//Write a Java program that prints the season name corresponding to its month number using If-else and switch - case statements.
+//Write a Java program that prints the season name corresponding to its month number using If-else and switch - case statements
 
 import java.util.*;
 
