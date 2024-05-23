@@ -1,4 +1,4 @@
-//10. Write a Java Program to define a class, describe its constructor, overload the Constructors and instantiate its object
+//10. Write a Java Program to define a class, describe its constructor, overload the Constructors and instantiate its object.
 import java.io.*;
 import java.util.*;
 import java.lang.*;
